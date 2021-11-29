@@ -58,4 +58,3 @@ steps:
     script: |
       print('AZURE PIPELINE')
       print('CONTINUOUS INTEGRATION & CONTINUOUS DEPLOYMENT')
-
